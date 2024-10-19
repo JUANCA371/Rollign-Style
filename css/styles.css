@@ -1,11 +1,17 @@
 .navbar-custom {
     background-color: #FD8B51;
     width: 100%;
+    padding: 1rem;
+  }
+
+navbar-custom:hover {
+    background-color: #FFA07A;
   }
 
 .logo-img {
     max-width: 120px; 
     height: auto;
+    margin-rigth: 1rem;
   }
   
 
